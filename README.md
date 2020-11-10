@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! I'm Iago Holanda!
 
-<!--
-**iagovholanda/iagovholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@iagovictorh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iagovictorh)](https://twitter.com/iagovictorh)
+[![Linkedin Badge](https://img.shields.io/badge/-Iago%20Holanda%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagovholanda/)](https://www.linkedin.com/in/iagovholanda/)
+[![Gmail Badge](https://img.shields.io/badge/-iagovdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagovdev@gmail.com)](mailto:iagovdev@gmail.com)
 
-Here are some ideas to get you started:
+- :man_technologist: A young dad traveling in the world of programming. 
+- :computer: Studying and practicing Typescript, ReactJS, React Native, NodeJS
+- 💚 NodeJS and Typescript
+- 💯 Sports lover, especially Basketball
+- 💬 Ask me about: tech, games, movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently open to new opportunities.
