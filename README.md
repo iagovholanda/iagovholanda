@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-iagovdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagovdev@gmail.com)](mailto:iagovdev@gmail.com)
 
 - :man_technologist: A young dad traveling in the world of programming. 
-- :computer: Studying and practicing Typescript, ReactJS, React Native, NodeJS
+- :computer: Studying and practicing Typescript and NodeJS
 - 💚 NodeJS and Typescript
 - 💯 Sports lover, especially Basketball
 - 💬 Ask me about: tech, games, movies
